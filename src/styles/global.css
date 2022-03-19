@@ -1,0 +1,15 @@
+
+/*
+  This file is used for all of your global styles and CSS variables.
+  Check here https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties for more info on using CSS variables.
+*/
+#elem {
+  background: green;
+}
+#elem:-webkit-full-screen {
+  width: 100%;
+  height: 100%;
+}
+#elem2 {
+  background: red;
+}
